@@ -1,0 +1,3 @@
+/users/cs/weijunh/tmp/tmp.3hm695Cxs1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/users/cs/weijunh/tmp/tmp.3hm695Cxs1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/users/cs/weijunh/tmp/tmp.3hm695Cxs1/cmake-build-debug/CMakeFiles/cachex.dir
